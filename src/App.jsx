@@ -15,7 +15,7 @@ function App() {
     <>
       <div className="h-[100vh] w-[100vw] md:bg-[#e5e5e5] flex ">
         <div className="md:h-[99%] md:w-[99%] w-full relative md:rounded-3xl bg-white md:flex max-md:flex-col   md:overflow-clip  m-auto ">
-          <div className="max-md:hidden">
+          <div className="max-md:hidden md">
             <Navbar />
           </div>
           <div className="fixed bottom-0 flex md:hidden w-full h-[8vh] text-black bg-white z-10  content-center">
