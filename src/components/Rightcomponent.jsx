@@ -109,7 +109,7 @@ function Rightcomponent() {
             <div className=" bg-[#4636F5] w-[100%] max-md:-mx-6 max-md:w-[100vw] ml-1 h-[7vh] md:h-[5vh] hover:cursor-pointer text-xs flex justify-center text-white md:rounded-lg">
               <div className="my-auto"> Update</div>
             </div>
-            <div className="h-[6vh] w-full bg-white"></div>
+            <div className="md:hidden h-[6vh] w-full bg-white"></div>
             <div className="text-[#4636F5] max-md:hidden font-bold text-xs w-full flex justify-center hover:cursor-pointer my-auto">
               View help Docs ›
             </div>
